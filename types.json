@@ -1,0 +1,62 @@
+[
+	{
+		"activity": "Travel",
+		"type": "social"
+	},
+	{
+		"activity": "Family",
+		"type": "family"
+	},
+	{
+		"activity": "Swim",
+		"type": "health"
+	},
+	{
+		"activity": "Movie",
+		"type": "social"
+	},
+	{
+		"activity": "Garden",
+		"type": "satisfaction"
+	},
+	{
+		"activity": "Draw",
+		"type": "personal-growth"
+	},
+	{
+		"activity": "Run",
+		"type": "health"
+	},
+	{
+		"activity": "Friends",
+		"type": "social"
+	},
+	{
+		"activity": "Nap",
+		"type": "health"
+	},
+	{
+		"activity": "Finding out",
+		"type": "satisfaction"
+	},
+	{
+		"activity": "Read",
+		"type": "social"
+	},
+	{
+		"activity": "Music",
+		"type": "satisfaction"
+	},
+	{
+		"activity": "Walk",
+		"type": "health"
+	},
+	{
+		"activity": "Nature",
+		"type": "spirit"
+	},
+	{
+		"activity": "Time",
+		"type": "spirit"
+	}
+]

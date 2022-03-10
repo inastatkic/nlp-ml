@@ -1,0 +1,46 @@
+[
+	{
+		"activity": "Going to friends' house-warming party",
+		"type": "social"
+	},
+	{
+		"activity": "Mastering a new song",
+		"type": "development"
+	},
+	{
+		"activity": "Having a fun lunch with hilarious coworker",
+		"type": "social"
+	},
+	{
+		"activity": "Meet with friends",
+		"type": "social"
+	},
+	{
+		"activity": "Finish the proposal for a new project and share it with a few trusted friends",
+		"type": "social"
+	},
+	{
+		"activity": "Research destinations for vacation",
+		"type": "social"
+	},
+	{
+		"activity": "Draft few words",
+		"type": "development"
+	},
+	{
+		"activity": "Create a price quote and send it to a client",
+		"type": "work"
+	},
+	{
+		"activity": "Request catering and venue proposal for an event",
+		"type": "social"
+	},
+	{
+		"activity": "Cook dinner",
+		"type": "personal-growth"
+	},
+	{
+		"activity": "Share photos with friends",
+		"type": "social"
+	}
+]

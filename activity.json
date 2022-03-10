@@ -1,0 +1,42 @@
+[
+	{
+		"tokens": ["Going", "to", "friends", "house", "warming", "party"],
+		"labels": ["", "", "ACTV", "", "", ""]
+	},
+	{
+		"tokens": ["Mastering", "a", "new", "song"],
+		"labels": ["", "", "", ""]
+	},
+	{
+		"tokens": ["Having", "a", "fun", "lunch", "with", "hilarious", "coworker"],
+		"labels": ["", "", "", "ACTV", "", "", ""]
+	},
+	{
+		"tokens": ["Meet", "with", "friends"],
+		"labels": ["", "", "ACTV"]
+	},
+	{
+		"tokens": ["Finish", "the", "proposal", "for", "a", "new", "project", "and", "share", "it", "with", "a", "few", "trusted", "friends"],
+		"labels": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "ACTV"]
+	},
+	{
+		"tokens": ["Research", "destinations", "for", "vacation"],
+		"labels": ["", "", "", ""]
+	},
+	{
+		"tokens": ["Create", "a", "price", "quote", "and", "send", "it", "to", "a", "client"],
+		"labels": ["", "", "", "", "", "", "", "", "", ""]
+	},
+	{
+		"tokens": ["Request", "catering", "and", "venue", "proposal", "for", "an", "event"],
+		"labels": ["", "", "", "", "", "", "", ""]
+	},
+	{
+		"tokens": ["Cook", "dinner", "for", "friends"],
+		"labels": ["", "", "", "ACTV"]
+	},
+	{
+		"tokens": ["Share", "photos", "with", "friends"],
+		"labels": ["", "", "", "ACTV"]
+	}
+]
